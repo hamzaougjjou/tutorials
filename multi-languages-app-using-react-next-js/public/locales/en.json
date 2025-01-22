@@ -1,0 +1,12 @@
+{
+  "Header": {
+    "Home": "Home",
+    "Products": "Products",
+    "Contact": "Contact Us"
+  },
+  "Hero": {
+    "Title": "Welcome to our multilingual application",
+    "SubTitle": "This is a simple example of a hero section in English. In a real application, this text will be loaded from translation files",
+    "Button": "Get Started"
+  }
+}
